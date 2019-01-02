@@ -4,11 +4,10 @@
     // Para obter mais informações, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "name": "Unity Editor",
             "type": "unity",
-            "path": "/e:/Arquivos de Programas/Unity/Projetos/teste/Library/EditorInstance.json",
+            "path": "/c:/Users/alanm/Documents/GitHub/unity_blender/Unity/teste/Library/EditorInstance.json",
             "request": "launch"
         },
         {
