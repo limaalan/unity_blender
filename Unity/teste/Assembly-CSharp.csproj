@@ -53,13 +53,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\EndTrigger.cs" />
-     <Compile Include="Assets\LevelComplete.cs" />
+     <Compile Include="Assets\Scripts\creditos.cs" />
+     <Compile Include="Assets\Scripts\EndTrigger.cs" />
      <Compile Include="Assets\Scripts\followPlayer.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\LevelComplete.cs" />
      <Compile Include="Assets\Scripts\player_movement.cs" />
      <Compile Include="Assets\Scripts\playerCollision.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
+     <Compile Include="Assets\Scripts\startGame.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/alanm/Documents/GitHub/unity_blender/Unity/teste/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
