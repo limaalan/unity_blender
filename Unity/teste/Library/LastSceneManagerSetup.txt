@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ColorSelect.unity
+- path: Assets/Scenes/Menu.unity
   isLoaded: 1
   isActive: 1
