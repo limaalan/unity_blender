@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour {
-	//public GameObject triggerFim;
+	public GameObject triggerFim;
 	//GameObject trigerFim=FindObjectOfType<End>;
 	bool GameHasEnded = false ;
 	public float restartDelay=1f;
@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour {
 	}
 	public void EndGame() {
 		if (GameHasEnded == false) {
-		//triggerFim.SetActive(false);
+		triggerFim.SetActive(false);
 		
 		GameHasEnded=true;
 		Debug.Log("Game Over ");

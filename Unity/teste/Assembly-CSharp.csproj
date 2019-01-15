@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\playerCollision.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\startGame.cs" />
+     <Compile Include="Assets\trocaMaterial.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/alanm/Documents/GitHub/unity_blender/Unity/teste/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
