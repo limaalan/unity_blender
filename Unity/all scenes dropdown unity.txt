@@ -1,0 +1,21 @@
+ public class DropDownScenePopulator : MonoBehaviour {
+     void Start () {
+         var optionDataList = new List<Dropdown.OptionData>();
+ 
+         for(int i = 0; i < SceneManager.sceneCountInBuildSettings; ++i) {
+             string name = System.IO.Path.GetFileNameWithoutExtension(SceneUtility.GetScenePathByBuildIndex(i));
+             optionDataList.Add(new Dropdown.OptionData(name));
+         }
+ 
+         GetComponent<Dropdown>().ClearOptions();
+         GetComponent<Dropdown>().AddOptions(optionDataList);
+     
+------
+//checa se as cenas estão ativas 
+List<string> scenes = new List<string>();
+ foreach(EditorBuildingSettingsScene scene in EditorBuildSettings.scenes)
+ {
+     if(scene.enabled)
+         scenes.add(scene.path);
+ }
+-----
