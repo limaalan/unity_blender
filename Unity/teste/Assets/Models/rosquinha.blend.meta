@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: f4e49655fec77664283ff2370084d2a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: granulado_grande
+    100002: granulado_grande_001
+    100004: granulado_grande_002
+    100006: granulado_grande_003
+    100008: granulado_grande_004
+    100010: granulado_grande_005
+    100012: granulado_grande_006
+    100014: granulado_grande_007
+    100016: granulado_grande_008
+    100018: granulado_grande_009
+    100020: //RootNode
+    100022: Torus
+    100024: Torus_001
+    400000: granulado_grande
+    400002: granulado_grande_001
+    400004: granulado_grande_002
+    400006: granulado_grande_003
+    400008: granulado_grande_004
+    400010: granulado_grande_005
+    400012: granulado_grande_006
+    400014: granulado_grande_007
+    400016: granulado_grande_008
+    400018: granulado_grande_009
+    400020: //RootNode
+    400022: Torus
+    400024: Torus_001
+    2100000: granulado_azul
+    2100002: granulado_verde
+    2100004: granulado_amarelo
+    2100006: granulado_vermelho
+    2100008: granulado_branco
+    2100010: Material_002
+    2100012: Material_001
+    2300000: granulado_grande
+    2300002: granulado_grande_001
+    2300004: granulado_grande_002
+    2300006: granulado_grande_003
+    2300008: granulado_grande_004
+    2300010: granulado_grande_005
+    2300012: granulado_grande_006
+    2300014: granulado_grande_007
+    2300016: granulado_grande_008
+    2300018: granulado_grande_009
+    2300020: Torus
+    2300022: Torus_001
+    2300024: //RootNode
+    3300000: granulado_grande
+    3300002: granulado_grande_001
+    3300004: granulado_grande_002
+    3300006: granulado_grande_003
+    3300008: granulado_grande_004
+    3300010: granulado_grande_005
+    3300012: granulado_grande_006
+    3300014: granulado_grande_007
+    3300016: granulado_grande_008
+    3300018: granulado_grande_009
+    3300020: Torus
+    3300022: Torus_001
+    3300024: //RootNode
+    4300000: granulado_grande_009
+    4300002: granulado_grande_008
+    4300004: granulado_grande_007
+    4300006: granulado_grande_006
+    4300008: granulado_grande_005
+    4300010: granulado_grande_004
+    4300012: granulado_grande_003
+    4300014: granulado_grande_002
+    4300016: granulado_grande_001
+    4300018: granulado_grande
+    4300020: Torus_001
+    4300022: Torus
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: a70bb6e47b1e0d242b6a59b80150f362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: d78fd43cd59a06a4c96b0612cdc7481f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granulado_amarelo
+    second: {fileID: 2100000, guid: c73b2a8d43c258d4992212b0cb791354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granulado_azul
+    second: {fileID: 2100000, guid: ffde98a1064066c41aeee9367cdfda68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granulado_branco
+    second: {fileID: 2100000, guid: 1492c088c3ffa99458aa2f02f9398585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granulado_verde
+    second: {fileID: 2100000, guid: 2da2ab8933ecd174b8e656eb793dd13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granulado_vermelho
+    second: {fileID: 2100000, guid: c17cc413cbf0de4499092a2cda2403e5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
